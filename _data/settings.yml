@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Personal
+  site_title: Julia Tsaltas
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -16,9 +16,6 @@ menu_settings:
       url: '/about'
     - title: 'Contact'
       url: '/contact'
-
-footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
 
 hero_settings:
   overlay_opacity: 0.8
